@@ -1,0 +1,23 @@
+{
+  "name": "hi",
+  "version": "1.0.0",
+  "description": "primer projecto OB Javascript y node",
+  "main": "Ejercico_1.js",
+  "scripts": {
+    "start": "node Ejercico_1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gazer808/OpenBootcamp.git"
+  },
+  "keywords": [
+    "Holamundo"
+  ],
+  "author": "Gazer808",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gazer808/OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/Gazer808/OpenBootcamp#readme"
+}
