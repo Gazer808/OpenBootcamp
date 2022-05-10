@@ -2,7 +2,7 @@
   "name": "hi",
   "version": "1.0.0",
   "description": "primer projecto OB Javascript y node",
-  "main": "Ejercico_1.js",
+  "main": "Ejercicio_1.js",
   "scripts": {
     "start": "node Ejercicio_1.js",
     "test": "echo \"Error: no test specified\" && exit 1"
